@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b219ca3f-12e1-4b08-b703-f94f6e8f2524" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../../Program Files/Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="28mVTO0hz1awdZILibmJyhqzN7D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xue\Desktop\img2pdf" />
+      <recent name="C:\Users\xue\Desktop\img2pdf\cmd" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xue\Desktop\img2pdf\cmd" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build img2pdf" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="img2pdf" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="img2pdf" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build img2pdf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1019" y="500" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1651993672280">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1019" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.-1100.2194.629@0.0.2560.1400" timestamp="1651993672280" />
+    <state width="2517" height="396" key="GridCell.Tab.0.bottom" timestamp="1651847876432">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1651829444840" />
+    <state width="2517" height="396" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.-1100.2194.629@0.0.2560.1400" timestamp="1651847876432" />
+    <state width="2517" height="396" key="GridCell.Tab.0.center" timestamp="1651847876432">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1651829444839" />
+    <state width="2517" height="396" key="GridCell.Tab.0.center/0.0.2560.1400/2560.-1100.2194.629@0.0.2560.1400" timestamp="1651847876432" />
+    <state width="2517" height="396" key="GridCell.Tab.0.left" timestamp="1651847876432">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1651829444839" />
+    <state width="2517" height="396" key="GridCell.Tab.0.left/0.0.2560.1400/2560.-1100.2194.629@0.0.2560.1400" timestamp="1651847876432" />
+    <state width="2517" height="396" key="GridCell.Tab.0.right" timestamp="1651847876432">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1651829444840" />
+    <state width="2517" height="396" key="GridCell.Tab.0.right/0.0.2560.1400/2560.-1100.2194.629@0.0.2560.1400" timestamp="1651847876432" />
+    <state x="615" y="221" key="SettingsEditor" timestamp="1651927198724">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1651889871710" />
+    <state x="615" y="221" key="SettingsEditor/0.0.2560.1400/2560.-1100.2194.629@0.0.2560.1400" timestamp="1651927198724" />
+    <state x="-7" y="43" width="2289" height="920" key="dock-window-1" timestamp="1651943224713">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="-7" y="43" width="2289" height="920" key="dock-window-1/0.0.2560.1400/2560.-1100.2194.629@0.0.2560.1400" timestamp="1651943224713" />
+  </component>
+</project>
